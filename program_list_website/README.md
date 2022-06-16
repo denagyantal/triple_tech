@@ -4,6 +4,8 @@ Hello! Thank you for taking the Triple frontend exercise. The goal is to impleme
 
 Some of the code could be poorly structured, so feel free to refactor anything that you would consider.
 
+Please, if you have any doubts about the exercise, please contact us. You can find our emails in the invite.
+
 ## Running the application
 
 ```
@@ -29,7 +31,7 @@ Here we provide a mockup of how the app could look:
 ### What we expect
 
 - See how your code is structured
-- See you would refactor some existing code to improve the codebase
+- See how you would refactor some existing code to improve the codebase
 - Our code is not tested properly! Add tests where considered :)
 
 ## API description
